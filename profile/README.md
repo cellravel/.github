@@ -1,13 +1,13 @@
 # CellRavel (*Unraveling the Secrets of Cells*)
 
-Welcome to CellRavel! We are a community-driven project focused on exploring the fascinating world of bioinformatics, artificial intelligence, cancer research, and immunotherapy. Our goal is to unlock the mysteries of cellular behavior through bioinformatics and advance scientific understanding through cutting-edge research and collaboration.
+Welcome to CellRavel! We are a community-driven initiative focused on exploring the fascinating world of bioinformatics, artificial intelligence, cancer research, and immunotherapy. Our goal is to unlock the mysteries of cellular behavior through bioinformatics and advance scientific understanding through cutting-edge research and collaboration.
 
 ## 🌱 What's Coming Up?
 
 We are in the early stages of developing educational content and potentially research initiatives for the open source community. Our focus will be on providing high-quality educational resources and eventually launching collaborative research projects. We are currently planning several exciting projects:
 
 - **Education**: Developing free comprehensive educational resources on [YouTube](https://www.youtube.com/@cellravel) for those interested in Bioinformatics, Computational Biology, AI, Cancer Research, and Immunotherapy; from beginners to advanced practitioners!
- - Checkout our first project: [PATOG](https://github.com/CellRavel/patog) (Curated Collection of Resources around Bioinformatics, Data Science, ML, etc.)
+  - Checkout our first project: [PATOG](https://github.com/CellRavel/patog) (Curated Collection of Resources around Bioinformatics, Data Science, ML, etc.)
 
 - **Tools**: Developing innovative software for analyzing biological data.
 
