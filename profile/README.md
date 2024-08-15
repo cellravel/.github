@@ -2,10 +2,6 @@
 
 Welcome to CellRavel! We are a community-driven project focused on exploring the fascinating world of bioinformatics, artificial intelligence, cancer research, and immunotherapy. Our goal is to unlock the mysteries of cellular behavior through bioinformatics and advance scientific understanding through cutting-edge research and collaboration.
 
-**Legal Status:** Please note that CellRavel is not yet a registered company. All activities are conducted on a volunteer basis, and no income is currently generated from this project. We aim to provide free educational resources and promote scientific research for the benefit of the global community.
-
-**Future Plans:** As we grow, we may seek financial support through community donations and potential revenue from platforms like YouTube. All funds raised will be transparently used to further our mission and expand our offerings.
-
 ## 🌱 What's Coming Up?
 
 We are in the early stages of developing educational content and potentially research initiatives for the open source community. Our focus will be on providing high-quality educational resources and eventually launching collaborative research projects. Stay tuned as we prepare to kick off our activities in the near future. We are currently planning several exciting projects:
@@ -27,6 +23,12 @@ Currently, CellRavel is managed by [ArashBioinfo](https://github.com/arashbioinf
 
 Stay updated with our latest research, articles, and insights by subscribing to our [LinkedIn Newsletter](https://www.linkedin.com/newsletters/cellravel-7116845370768252928/) and [YouTube Channel](https://www.youtube.com/@cellravel).
 Join our growing community of scientists, researchers, and enthusiasts!
+
+## ⚖️ Legal Status and Future Plans
+
+**Legal Status:** Please note that CellRavel is not yet a registered company. All activities are conducted on a volunteer basis, and no income is currently generated from this project. We aim to provide free educational resources and promote scientific research for the benefit of the global community.
+
+**Future Plans:** As we grow, we may seek financial support through community donations and potential revenue from platforms like YouTube. All funds raised will be transparently used to further our mission and expand our offerings.
 
 ## 📫 Get In Touch
 
