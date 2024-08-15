@@ -11,7 +11,7 @@ We are in the early stages of developing educational content and potentially res
 
 We are currently planning several exciting projects:
 
-- **Bioinformatics Education**: Developing free comprehensive educational resources on [YouTube](https://www.youtube.com/@cellravel) for those interested in bioinformatics, computational biology, AI, Cancer research, and Immunotherapy; from beginners to advanced practitioners!
+- **Bioinformatics Education**: Developing free comprehensive educational resources on [YouTube](https://www.youtube.com/@cellravel) for those interested in Bioinformatics, Computational Biology, AI, Cancer Research, and Immunotherapy; from beginners to advanced practitioners!
 - **Bioinformatics Tools**: Developing innovative software for analyzing biological data.
 - **AI and Immunotherapy in Healthcare**: Combining machine learning techniques to improve cancer diagnosis, treatment, and patient outcomes. We are investigating how AI can be used to better harness the immune system in the fight against cancer.
 
