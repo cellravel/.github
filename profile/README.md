@@ -9,7 +9,7 @@ We are in the early stages of developing educational content and potentially res
 
 ## 👤 Our Team
 
-Currently, CellRavel is managed by **@ArashBioinfo**, who is also our primary developer. As we grow, we aim to expand our team and bring more experts on board.
+Currently, CellRavel is managed by @ArashBioinfo, who is also our primary developer. As we grow, we aim to expand our team and bring more experts on board.
 
 ## 🌐 Join the Conversation
 
