@@ -5,7 +5,7 @@ Welcome to CellRavel! We are dedicated to exploring the fascinating world of bio
 
 ## 🌱 What's Coming Up?
 
-We are in the early stages of developing educational content and potentially research initiatives. Our focus will be on providing high-quality educational resources and eventually launching collaborative research projects. Stay tuned as we prepare to kick off our activities in the near future.
+We are in the early stages of developing educational content and potentially research initiatives for the open source community. Our focus will be on providing high-quality educational resources and eventually launching collaborative research projects. Stay tuned as we prepare to kick off our activities in the near future.
 
 ## 🚀 Explore Our Projects
 
