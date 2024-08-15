@@ -18,14 +18,12 @@ Join our growing community of scientists, researchers, and enthusiasts!
 
 ## 🚀 Explore Our Projects
 
-Although our projects are currently in the planning stages, we have exciting ideas that will be coming your way soon:
-
 We are currently planning several exciting projects:
 
 - **Bioinformatics Education**: Developing comprehensive educational resources for those interested in bioinformatics, from beginners to advanced practitioners.
 - **Bioinformatics Tools**: Developing innovative software for analyzing biological data.
 - **AI and Immunotherapy in Healthcare**: Combining machine learning techniques with immunotherapy approach to improve cancer diagnosis, treatment, and patient outcomes. We are investigating how AI can be used to better harness the immune system in the fight against cancer.
-- 
+
 Stay tuned for updates, and feel free to contribute or collaborate with us once we launch our projects!
 
 ## 📫 Get In Touch
