@@ -7,6 +7,17 @@ Welcome to CellRavel! We are dedicated to exploring the fascinating world of bio
 
 We are in the early stages of developing educational content and potentially research initiatives. Our focus will be on providing high-quality educational resources and eventually launching collaborative research projects. Stay tuned as we prepare to kick off our activities in the near future.
 
+## 🚀 Explore Our Projects
+
+We are currently planning several exciting projects:
+
+- **Bioinformatics Education**: Developing comprehensive educational resources for those interested in bioinformatics, computational biology, AI, Cancer research, and Immunotherapy; from beginners to advanced practitioners!
+- **Bioinformatics Tools**: Developing innovative software for analyzing biological data.
+- **AI and Immunotherapy in Healthcare**: Combining machine learning techniques with immunotherapy approach to improve cancer diagnosis, treatment, and patient outcomes. We are investigating how AI can be used to better harness the immune system in the fight against cancer.
+
+Stay tuned for updates, and feel free to contribute or collaborate with us once we launch our projects!
+
+
 ## 👤 Our Team
 
 Currently, CellRavel is managed by [ArashBioinfo](https://github.com/arashbioinfo), who is also our primary developer. As we grow, we aim to expand our team and bring more experts on board.
@@ -15,16 +26,6 @@ Currently, CellRavel is managed by [ArashBioinfo](https://github.com/arashbioinf
 
 Stay updated with our latest research, articles, and insights by subscribing to our [LinkedIn Newsletter](https://www.linkedin.com/newsletters/cellravel-7116845370768252928/) and [YouTube Channel](https://www.youtube.com/@cellravel).
 Join our growing community of scientists, researchers, and enthusiasts!
-
-## 🚀 Explore Our Projects
-
-We are currently planning several exciting projects:
-
-- **Bioinformatics Education**: Developing comprehensive educational resources for those interested in bioinformatics, from beginners to advanced practitioners.
-- **Bioinformatics Tools**: Developing innovative software for analyzing biological data.
-- **AI and Immunotherapy in Healthcare**: Combining machine learning techniques with immunotherapy approach to improve cancer diagnosis, treatment, and patient outcomes. We are investigating how AI can be used to better harness the immune system in the fight against cancer.
-
-Stay tuned for updates, and feel free to contribute or collaborate with us once we launch our projects!
 
 ## 📫 Get In Touch
 
