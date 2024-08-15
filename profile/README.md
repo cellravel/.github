@@ -13,7 +13,7 @@ We are currently planning several exciting projects:
 
 - **Bioinformatics Education**: Developing comprehensive educational resources for those interested in bioinformatics, computational biology, AI, Cancer research, and Immunotherapy; from beginners to advanced practitioners!
 - **Bioinformatics Tools**: Developing innovative software for analyzing biological data.
-- **AI and Immunotherapy in Healthcare**: Combining machine learning techniques with immunotherapy approach to improve cancer diagnosis, treatment, and patient outcomes. We are investigating how AI can be used to better harness the immune system in the fight against cancer.
+- **AI and Immunotherapy in Healthcare**: Combining machine learning techniques to improve cancer diagnosis, treatment, and patient outcomes. We are investigating how AI can be used to better harness the immune system in the fight against cancer.
 
 Stay tuned for updates, and feel free to contribute or collaborate with us once we launch our projects!
 
