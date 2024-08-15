@@ -1,6 +1,5 @@
-# CellRavel
+# CellRavel (*Unraveling the Secrets of Cells*)
 
-**Unraveling the Secrets of Cells**
 
 Welcome to CellRavel! We are dedicated to exploring the fascinating world of bioinformatics, artificial intelligence, cancer research, and immunotherapy. Our goal is to unlock the mysteries of cellular behavior through bioinformatics and advance scientific understanding through cutting-edge research and collaboration.
 
