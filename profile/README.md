@@ -4,14 +4,12 @@ CellRavel is an emerging community-driven initiative focused on advancing educat
 
 ## 🌱 What's Coming Up?
 
-We are in the early stages of developing educational content and potentially research initiatives for the open source community. Our focus will be on providing high-quality educational resources and eventually launching collaborative research projects. We are currently planning several exciting projects:
+We are in the early stages of developing educational content and potentially research initiatives for the open source community. Our focus will be on providing high-quality educational resources and eventually launching collaborative research projects. We are currently planning for:
 
-- **Education**: Developing free comprehensive educational resources on [YouTube](https://www.youtube.com/@cellravel) for those interested in Bioinformatics, Computational Biology, AI, Cancer Research, and Immunotherapy; from beginners to advanced practitioners!
+- **Education**: Producing free comprehensive educational resources on [YouTube](https://www.youtube.com/@cellravel) for those interested in Bioinformatics, Computational Biology, AI, Cancer Research, and Immunotherapy; from beginners to advanced practitioners!
   - Checkout our first project: [PATOG](https://github.com/CellRavel/patog) (Curated Collection of Resources around Bioinformatics, Data Science, ML, etc.)
 
-- **Tools**: Developing innovative software for analyzing biological data.
-
-- **AI in Healthcare**: Combining machine learning techniques to improve cancer diagnosis, treatment, and patient outcomes. We are investigating how AI can be used to better harness the immune system in the fight against cancer.
+- **Research & Developement**: Developing cutting-edge tools in R and Python for the analysis of biological data. Our research will be particularly focused on leveraging artificial intelligence to enhance cancer diagnosis, treatment, and patient outcomes. By combining machine learning techniques with advanced bioinformatics, we aim to revolutionize how the immune system can be harnessed in the fight against cancer.
 
 Stay tuned for updates, and feel free to contribute or collaborate with us once we prepare to kick off our projects in the near future!
 
