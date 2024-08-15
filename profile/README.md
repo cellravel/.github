@@ -1,7 +1,10 @@
 # CellRavel (*Unraveling the Secrets of Cells*)
 
+Welcome to CellRavel! We are a community-driven project focused on exploring the fascinating world of bioinformatics, artificial intelligence, cancer research, and immunotherapy. Our goal is to unlock the mysteries of cellular behavior through bioinformatics and advance scientific understanding through cutting-edge research and collaboration.
 
-Welcome to CellRavel! We are dedicated to exploring the fascinating world of bioinformatics, artificial intelligence, cancer research, and immunotherapy. Our goal is to unlock the mysteries of cellular behavior through bioinformatics and advance scientific understanding through cutting-edge research and collaboration.
+**Legal Status:** Please note that CellRavel is not yet a registered company. All activities are conducted on a volunteer basis, and no income is currently generated from this project. We aim to provide free educational resources and promote scientific research for the benefit of the global community.
+
+**Future Plans:** As we grow, we may seek financial support through community donations and potential revenue from platforms like YouTube. All funds raised will be transparently used to further our mission and expand our offerings.
 
 ## 🌱 What's Coming Up?
 
