@@ -30,7 +30,7 @@ Join our growing community of scientists, researchers, and enthusiasts!
 
 ## 📫 Get In Touch
 
-Have questions or want to collaborate? Reach out to us at [ArashBioinfo](https://github.com/arashbioinfo) 
+Have questions or want to collaborate? Reach out to us at [ArashBioinfo](https://github.com/arashbioinfo) or Start a new discussion!
 <!-- [CellRavel](mailto:contact@cellravel.org) or connect with us on [LinkedIn](https://www.linkedin.com/company/cellravel). -->
 
 Thank you for visiting CellRavel. Let's unravel the secrets of cells together!
