@@ -7,7 +7,9 @@ CellRavel is an emerging community-driven initiative focused on advancing educat
 We are in the early stages of developing educational content and potentially research initiatives for the open source community. Our focus will be on providing high-quality educational resources and eventually launching collaborative research projects. We are currently planning for:
 
 - **Education**: Producing free comprehensive educational resources on [YouTube](https://www.youtube.com/@cellravel) for those interested in Bioinformatics, Computational Biology, AI, Cancer Research, and Immunotherapy; from beginners to advanced practitioners!
-  - Checkout our first project: [PATOG](https://github.com/CellRavel/patog) (Curated Collection of Resources to learn Bioinformatics, Data Science, ML, etc.)
+  - Checkout our first two projects:
+    -  [PATOG](https://github.com/CellRavel/patog): Curated Collection of Resources and Roadmap to learn Bioinformatics, Data Science, ML, etc.
+    -  [FROM GENES TO SILICON](https://github.com/cellravel/bioinfo_persian_book): Perisan Bioinformatics and Computational Biology Book for Students
 
 - **Research & Developement**: Developing cutting-edge tools in R and Python for the analysis of biological data. Our research will be particularly focused on leveraging artificial intelligence to enhance cancer diagnosis, treatment, and patient outcomes. By combining machine learning techniques with advanced bioinformatics, we aim to revolutionize how the immune system can be harnessed in the fight against cancer.
 
