@@ -17,7 +17,7 @@ Stay tuned for updates, and feel free to contribute or collaborate with us once 
 
 ## 👤 Our Team
 
-Currently, CellRavel is managed by [ArashBioinfo](https://github.com/arashbioinfo) with the help of [MEFarhadieh](https://github.com/MEFarhadieh) and [PedramKhalaj](https://github.com/PedramKhalaj). As we grow, we aim to expand our team and bring more experts on board.
+Currently, CellRavel is managed by [Arash B. Abadi](https://github.com/arashbioinfo) with the help of [MEFarhadieh](https://github.com/MEFarhadieh) and [Pedram Khalaj](https://github.com/PedramKhalaj). As we grow, we aim to expand our team and bring more experts on board.
 
 ## 🌐 Join the Conversation
 
